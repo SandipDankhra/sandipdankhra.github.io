@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sandipdankhra.dev/sitemap.xml
+Sitemap: https://sandipdankhra.github.io/sitemap.xml
